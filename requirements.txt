@@ -1,0 +1,16 @@
+beautifulsoup4==4.15.0
+Django==5.2.16
+django-bootstrap5==26.2
+Faker==12.0.1
+flake8==7.3.0
+flake8-docstrings==1.7.0
+mixer==7.2.2
+pep8-naming==0.15.1
+Pillow==12.3.0
+pytest==9.1.1
+pytest-django==4.12.0
+pytz==2026.2
+sentencepiece==0.2.2
+torch==2.13.0
+transformers==5.14.1
+yapf==0.43.0
